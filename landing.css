@@ -1,0 +1,31 @@
+*{
+    background-color:black;
+    color: whitesmoke;
+}
+.background {
+    background-image: url("assets/img/space-invaders.jpeg");
+}
+#navPanel {
+    margin-top: 100px;
+    text-align: center;
+}
+#navPanel img {
+    border-radius: 50%;
+}
+#title {
+    font-size: larger;
+    font-family: 'Roboto Mono', monospace;
+    display: inline;
+}
+
+li {
+    font-size: larger;
+    font-family: 'Roboto Mono', monospace;
+    display: inline;
+}
+
+a {
+    font-family: 'Roboto Mono', monospace;
+    width: 100px;
+}
+

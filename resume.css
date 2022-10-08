@@ -1,0 +1,16 @@
+*{
+    background-color:black;
+    color: whitesmoke;
+    font-family: 'Roboto Mono', monospace;
+}
+
+#navlist {
+    float: right;
+    cursor: pointer;
+    padding-bottom: 10px;
+    
+}
+li {
+    font-size: larger;
+    display: inline;
+}
